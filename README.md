@@ -4,6 +4,10 @@
 
 No personal OR non-personal data is collected by our applications.  All data that is entered into options menus is stored locally on your device.
 
+## How We Store Your Data
+
+We do not collect your data and therefore do not store your data.
+
 ## How We Use Collected Data
 
 We do not collect your data and therefore do not use your data.
